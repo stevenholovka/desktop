@@ -35,5 +35,6 @@
     "javascriptreact",
     "typescript",
     "typescriptreact"
-  ]
+  ],
+  "eggHelper.serverPort": 51830
 }
